@@ -384,8 +384,7 @@ const Finale = () => {
 
         <div className="mt-10 flex flex-wrap justify-center gap-4">
           <a href="#hero" className="rounded-2xl bg-cyan-400 px-5 py-3 font-semibold text-slate-950">Restart Story</a>
-          <a href="https://github.com" className="inline-flex items-center gap-2 rounded-2xl border border-white/15 px-5 py-3 font-semibold text-white/85"><Github className="h-5 w-5" /> GitHub</a>
-          <a href="https://vercel.com" className="inline-flex items-center gap-2 rounded-2xl border border-white/15 px-5 py-3 font-semibold text-white/85"><Globe className="h-5 w-5" /> Live Demo</a>
+          <a href="https://github.com/Sakthivel1107/hero" className="inline-flex items-center gap-2 rounded-2xl border border-white/15 px-5 py-3 font-semibold text-white/85"><Github className="h-5 w-5" /> GitHub</a>
         </div>
       </div>
     </Section>
